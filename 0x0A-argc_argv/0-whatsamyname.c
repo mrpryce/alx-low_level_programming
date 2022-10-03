@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "bright.h"
 /**
 * main - prints program name
 * @argc: number of programs in the command line.
