@@ -1,16 +1,16 @@
-#include <stdio.h>
 #include "bright.h"
+#include <stdio.h>
+
 /**
-* main - prints program name
-* @argc: number of programs in the command line.
-* @argv: stores number of arguments passed in the command line.
-*
-* Return: 0 on sucess
-*/
+ * main - Prints the name of the program
+ * @argc: Number of command line arguments
+ * @argv: Array name
+ * Return: 0
+ */
+
 int main(int argc, char *argv[])
 {
-	(void)argc;
+	printf("%s\n", argv[argc * 0]);
 
-	printf("%s\n", argv[0]);
 	return (0);
 }
