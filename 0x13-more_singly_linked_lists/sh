@@ -1,0 +1,11 @@
+
+bjects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 537 bytes | 537.00 KiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/mrpryce/alx-low_level_programming.git
+   ddfbddd..998defb  master -> master
+root@613e6ff9cec7:~/alx-low_level_programming/0x13-more_singly_linked
